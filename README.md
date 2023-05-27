@@ -32,7 +32,7 @@ The Privacy Policy is required by law if you collect personal data. One should b
 * Mobile app: iOS, Android or Windows Phone
 * Facebook app
 * Desktop app
-* Digital product
+* Digital product 
 
 
 ## How this Privacy Policy Template works
